@@ -1,5 +1,5 @@
 ### Github State
-[![jackiehu's github stats](https://github-readme-stats.vercel.app/api?username=jackiehu&show_icons=true&theme=merko)
+[![jackiehu's github stats](https://github-readme-stats.vercel.app/api?username=jackiehu&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackiehu&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/jackiehu/SwiftBrick">
