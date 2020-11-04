@@ -1,4 +1,4 @@
-### 你好
+### 你好 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 我是 jackiehu ，码农 ，专注移动端搬码 ，略懂iOS、Android。
 ### 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftBrick&theme=radical&locale=cn)](https://github.com/jackiehu/SwiftBrick)
