@@ -1,5 +1,6 @@
 ### 你好 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-我是 hu ，码农 ，专注移动端搬码。
+我是 hu ，码农 ，专注移动端搬码，擅长iOS端架构以及组件化重构，擅长Swift、SwiftUI、OC等。
+I'm hu, a coder, focusing on mobile coding, good at iOS architecture and component refactoring, good at Swift, SwiftUI, OC.
 ### 
 
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=Brick_SwiftUI&theme=radical&locale=cn)](https://github.com/jackiehu/Brick_SwiftUI) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=HUD&theme=radical&locale=cn)](https://github.com/jackiehu/HUD) |
