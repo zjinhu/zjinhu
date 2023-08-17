@@ -4,11 +4,11 @@
 I'm hu, a coder, focusing on mobile coding, good at iOS architecture and component refactoring, good at Swift, SwiftUI, OC.
 ### 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=Brick_SwiftUI&theme=radical&locale=cn)](https://github.com/jackiehu/Brick_SwiftUI) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=HUD&theme=radical&locale=cn)](https://github.com/jackiehu/HUD) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftBrick&theme=radical&locale=cn)](https://github.com/jackiehu/SwiftBrick)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftMesh&theme=radical&locale=cn)](https://github.com/jackiehu/SwiftMesh)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftMediator&theme=radical&locale=cn)](https://github.com/jackiehu/SwiftMediator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=Brick_SwiftUI&theme=radical)](https://github.com/jackiehu/Brick_SwiftUI) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=HUD&theme=radical)](https://github.com/jackiehu/HUD) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftBrick&theme=radical)](https://github.com/jackiehu/SwiftBrick)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftMesh&theme=radical)](https://github.com/jackiehu/SwiftMesh)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftMediator&theme=radical)](https://github.com/jackiehu/SwiftMediator)
 
 ```
 
