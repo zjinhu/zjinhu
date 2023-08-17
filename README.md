@@ -9,6 +9,8 @@ I'm hu, a coder, focusing on mobile coding, good at iOS architecture and compone
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftBrick&theme=radical)](https://github.com/jackiehu/SwiftBrick)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftMesh&theme=radical)](https://github.com/jackiehu/SwiftMesh)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftMediator&theme=radical)](https://github.com/jackiehu/SwiftMediator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ```
 
