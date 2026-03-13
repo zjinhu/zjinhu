@@ -1,13 +1,20 @@
-### HI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-我是 Jinhu ，码农 ，专注移动端搬码，擅长iOS端架构以及组件化重构，擅长Swift、SwiftUI、OC等。
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Jinhu, a coder😁
 
-I'm Jinhu, a coder, focusing on mobile coding, good at iOS architecture and component refactoring, good at Swift, SwiftUI, OC.
-### 
+Primary stack: iOS (Swift / SwiftUI / Objective-C). Also available for Android and HarmonyOS projects.
+
+iOS Proficient in Swift, SwiftUI, Objective-C. Solid understanding of Runtime internals, GCD, and thread safety. Experienced in MVP/MVVM architecture and componentized framework design — independently architected a full component system supporting multiple business apps. Skilled in performance tuning, memory management, crash analysis, and jank detection.
+
+Overseas App Experience Full App Store & Google Play submission experience. Hands-on integration and console configuration of Firebase, Sendbird, Stripe, RevenueCat, and AdMob.
+
+Engineering & Tooling CI/CD setup via Jenkins + Shell scripting. CocoaPods and Swift Package Manager library development and publishing. AI-assisted development workflow. Open-source framework maintenance experience.
+
+If you have mobile app development tasks, please contact me: jackiehu1122@gamil.com
+
+### ### 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=Brick_SwiftUI)](https://github.com/jackiehu/Brick_SwiftUI) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=HUD)](https://github.com/jackiehu/HUD) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftBrick)](https://github.com/jackiehu/SwiftBrick)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftMesh)](https://github.com/jackiehu/SwiftMesh)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftMediator)](https://github.com/jackiehu/SwiftMediator)
-
 
