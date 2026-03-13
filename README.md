@@ -9,12 +9,3 @@ Overseas App Experience Full App Store & Google Play submission experience. Hand
 Engineering & Tooling CI/CD setup via Jenkins + Shell scripting. CocoaPods and Swift Package Manager library development and publishing. AI-assisted development workflow. Open-source framework maintenance experience.
 
 If you have mobile app development tasks, please contact me: jackiehu1122@gamil.com
-
-### ### 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=Brick_SwiftUI)](https://github.com/jackiehu/Brick_SwiftUI) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=HUD)](https://github.com/jackiehu/HUD) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftBrick)](https://github.com/jackiehu/SwiftBrick)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftMesh)](https://github.com/jackiehu/SwiftMesh)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackiehu&repo=SwiftMediator)](https://github.com/jackiehu/SwiftMediator)
-
